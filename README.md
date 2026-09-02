@@ -26,6 +26,7 @@ Each of the four type folders is split by purpose:
 | `research/`    | Investigation, summarisation, comparison, analysis      |
 | `ops/`         | Infra, deploys, CI/CD, incident handling, migrations    |
 | `productivity/`| Planning, note-taking, meetings, personal automation    |
+| `media/`       | Image, video, and audio generation prompting            |
 
 Add a new purpose folder when something clearly doesn't fit. Keep the set small.
 

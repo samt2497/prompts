@@ -1,7 +1,7 @@
 ---
 name: my-prompt
 purpose: coding | writing | research | ops | productivity
-kind: system | one-shot | template
+kind: system | one-shot | template | reference
 models_tested: []
 tags: []
 ---
